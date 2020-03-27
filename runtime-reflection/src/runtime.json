@@ -1,0 +1,22 @@
+{
+    "runTimeCompilationChecking": true,
+    "crashOnAnyException": false,
+    "events": true,
+    "conversionRules": {
+        "stringToNumber": {
+            "resolve": "convert"
+        },
+        "numberToString": {
+            "resolve": "convert"
+        },
+        "stringToBoolean": {
+            "resolve": "convert"
+        },
+        "objectToPrimitive": {
+            "resolve": "crash"
+        },
+        "null": {
+            "resolve": "ignore"
+        }
+    }
+}
