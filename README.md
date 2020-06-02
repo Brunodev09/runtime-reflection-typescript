@@ -11,7 +11,7 @@ This is a custom script to perform realtime type-checking in Javascript objects 
 
 ### How to use
 
-This framework uses Typescript compiler experimental annotations to perform realtime type checking. It basically emulates the effect of `Reflection`, native in languages like Java, C#, C++ and other strongly typed languages.
+This framework uses Typescript compiler experimental annotations to perform realtime type checking. It basically emulates the effect of `Reflection`, native in languages like Java, C# and other strongly typed languages.
 
 ## Basic usage:
 
